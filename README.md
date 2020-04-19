@@ -11,3 +11,10 @@ scripts:
 2debug:
 
 3build:
+
+
+git clone -b [branch-name] https://github.com/YoraiLevi/_Template-Starter-kit.git [folder-name]
+git remote rename origin starter-kit
+git remote add origin [git-url]
+git branch -m master
+git push -u origin master
