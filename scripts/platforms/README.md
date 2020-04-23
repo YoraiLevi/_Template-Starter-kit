@@ -1,1 +1,1 @@
-delegation for platform specific scripts
+# delegation for platform specific scripts

@@ -1,1 +1,1 @@
-Reserved folder used for building.
+# Reserved folder for building

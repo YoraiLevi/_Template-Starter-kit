@@ -1,1 +1,1 @@
-Reserved folder used for git submodules.
+# Reserved folder used for git submodules

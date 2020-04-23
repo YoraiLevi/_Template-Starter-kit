@@ -1,1 +1,1 @@
-Reserved folder used for common scripts data.
+# Reserved folder used for common scripts data
