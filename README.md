@@ -1,7 +1,7 @@
 # **Starter kits**
 
 A starter kit for
-starter kits  
+python 3.8  
 _checkout the branhes for more templates._
 
 ## **Usage**
