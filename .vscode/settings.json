@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    // https://code.visualstudio.com/docs/python/linting
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.banditEnabled": true,
+    "python.linting.mypyEnabled": true
+}
